@@ -4,8 +4,8 @@ import json
 from googletrans import Translator
 import time
 
-bot = telebot.TeleBot("7153708887:AAGS4lnkpZW16uVxjVXtMMnjyCWiwjGV0UU")
-api_token = "vk-ZOIGDsroGMGPU34B5EUe51L8upQdjFT1TT9U4DwOO2ODxc"
+bot = telebot.TeleBot("")
+api_token = ""
 url = 'https://api.vyro.ai/v1/imagine/api/generations'
 feedback_file = 'feedback.json'
 language_file = 'language.json'
